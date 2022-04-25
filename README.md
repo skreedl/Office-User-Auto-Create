@@ -1,5 +1,5 @@
 # Office-User-Auto-Create
-with cloudflare workers
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=hhttps://github.com/skreedl/Office-User-Auto-Create)
 
 new demo at https://2gfre.kskb.eu.org/
 
